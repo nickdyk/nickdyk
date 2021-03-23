@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there sailor 🚢
+
+I'm building Port, helping devrel navigate their communities.
 
 <!--
 **nickdyk/nickdyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
