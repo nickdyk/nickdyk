@@ -1,6 +1,6 @@
-### Hey there sailor 🚢
+### Hey there!
 
-I'm building Port, helping devrel navigate their communities.
+I'm working on Product at Commsor, the Community OS.
 
 <!--
 **nickdyk/nickdyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
