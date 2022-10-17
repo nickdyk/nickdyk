@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm working on Product at Commsor, the Community OS.
+I'm working on Product at HYPE, the web3 super agency.
 
 <!--
 **nickdyk/nickdyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
