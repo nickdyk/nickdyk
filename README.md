@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm working on Product at Hype INFRA, the web3 super agency.
+I'm working on Product at MODE 🟡. I've worked on a variety of web3 products, community software, and marketing analytics.
 
 <!--
 **nickdyk/nickdyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
